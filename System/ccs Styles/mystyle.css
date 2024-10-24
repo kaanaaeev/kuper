@@ -1,0 +1,59 @@
+body {
+    background: #faf7f7;
+
+}
+.container-fluid {
+    /* background-color: #ffffff; */
+    margin: 0%;
+    pad: 0%;
+}
+.button-green {
+    background-color: #00ff33;
+    border-color: #00ff33;
+    color: black;
+}
+.card {
+    height: 30rem;
+}
+.card-img-top {
+    height: 11rem;
+    width: 16rem;
+    align-items: center;
+    /* padding-left: 1rem; */
+    margin: 1rem;
+    
+}
+
+/* .card-text {
+    margin-bottom: 0%;
+} */
+ .a {
+    margin-bottom: 0%;
+ }
+.navbar-brand>img {
+    text-align: center;
+    width: 35px;
+    height: 35px;}
+
+   .row {
+    padding: 4em;
+    /* margin: 10%; */
+   
+   }
+
+   .col {
+    padding: 1em;
+    
+   }
+.hepe {
+    margin: 0%;
+    padding: 0%;
+}
+/* .card {
+    background-color: black;
+} */
+
+
+/* .card {
+    border-color: #94ffaa;
+} */
